@@ -59,7 +59,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-!["output"](/now1.png)
-!["output"](/now2.png)
+![now1](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/d50d25bb-b3ba-4e81-a1b3-e33b14538294)
+
+![now2](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/aa02aab9-0ce1-47ae-a588-b55bd4315f8c)
+
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
