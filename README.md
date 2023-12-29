@@ -38,6 +38,7 @@ print(list_of_nums)
 
 ```
 ii)	#Insertion Sort
+```
 ''' 
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: Arun Kumar B
