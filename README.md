@@ -59,9 +59,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Screenshot 2023-12-29 185121](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/25cb0b25-62f2-4066-a658-7622672f61cb)
 
-![Screenshot 2023-12-29 185140](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/a522839a-78f4-43bc-8969-44c4ec610d09)
+![Screenshot 2023-12-29 185140](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/fd812654-a479-4a45-a7c2-eee31ca03c76)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
