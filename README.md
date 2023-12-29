@@ -59,8 +59,6 @@ print(list_of_nums)
 ```
 
 ## Output:
-![now1](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/96dcd009-7c41-42ec-9639-03cfdd6307a0)
-![now2](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/633c546b-030d-40df-8c92-090f39a5edd0)
 
 
 ## Result:
