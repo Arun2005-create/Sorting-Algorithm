@@ -59,7 +59,7 @@ print(list_of_nums)
 ```
 
 ## Output:
-
-
+!["output"](/now1.png)
+!["output"](/now2.png)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
