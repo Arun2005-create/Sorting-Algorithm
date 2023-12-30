@@ -59,8 +59,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Screenshot 2023-12-29 185121](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/46375a81-77e5-46a8-891d-9b2e8bf6bca5)
-![Screenshot 2023-12-29 185140](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/e1ad9999-c676-4d3d-9492-17847ad00425)
+![Screenshot 2023-12-29 185140](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/ac0c553b-1ef9-49cd-af1f-170bf4f83acb)
+![Screenshot 2023-12-29 185121](https://github.com/Arun2005-create/Sorting-Algorithm/assets/138849356/666e379a-b46b-46bd-ad34-9b14fd341611)
 
 
 ## Result:
